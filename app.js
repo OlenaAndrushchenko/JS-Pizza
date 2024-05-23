@@ -16,5 +16,9 @@ function makePizza() {
 }
 
 function makeDough() {
+    mixIngridients();
+}
+
+function mixIngridients() {
     console.log('Mix' + flour + water);
 }
