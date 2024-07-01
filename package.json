@@ -1,0 +1,14 @@
+{
+  "name": "js-pizza",
+  "version": "1.0.0",
+  "description": "- Elaboration of a pizza with JavaScript using variables, functions, and console.log() from a single file (app.js) without modularization.\r - Expected terminal output: steps followed for the elaboration until delivery to the customer.\r - Example of terminal output (you don't have to follow the exact steps):",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
